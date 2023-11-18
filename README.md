@@ -1,6 +1,6 @@
 # DOMvillage
 
-This is the first project i worked on @ Wild Code School. A static website of a fictive village.
+Project #1 in the Wild Code School. A static website of a fictive village.
 
 ## Desktop version
 ![Capture d’écran 2021-12-11 225025](https://user-images.githubusercontent.com/30464317/145692910-bf5dd009-ab6c-430f-b070-4a1df9e780bd.png)
